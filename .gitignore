@@ -1,0 +1,10 @@
+#Compiled project content
+Build/
+Binaries/
+DerivedDataCache/
+Intermediate/
+Saved/
+
+#Compiled plugins content
+Plugins/*/Binaries/
+Plugins/*/Intermediate/
